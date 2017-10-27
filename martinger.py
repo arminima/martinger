@@ -82,10 +82,6 @@ for xRound in range(20):
         print("best result=", xptotal)
 
 
-
-
-
-
 print("lostnumber=", lostnumber)
 #
 #         x2 = x
